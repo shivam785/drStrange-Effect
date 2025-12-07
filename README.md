@@ -98,6 +98,3 @@ Everything else is **gesture-controlled**:
 ## ⭐ Advanced Tips
 
 * Lower camera resolution for higher FPS
-
-
-Just say the word ✨
